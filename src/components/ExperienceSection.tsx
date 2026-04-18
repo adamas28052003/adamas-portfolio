@@ -39,7 +39,7 @@ const ExperienceSection = () => {
             <div>
               <h3 className="text-xl font-semibold text-foreground">Formation AWS Re/Start & Stage IT / Help Desk</h3>
               <p className="text-primary font-medium">Orange Digital Center</p>
-              <p className="text-sm text-muted-foreground mt-1">Septembre 2025 – Aujourd'hui · 5 mois · Temps plein</p>
+              <p className="text-sm text-muted-foreground mt-1">Août 2025 – Janvier 2026 · Temps plein</p>
             </div>
           </div>
 
