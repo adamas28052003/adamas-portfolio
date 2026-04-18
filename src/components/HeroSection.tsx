@@ -48,7 +48,7 @@ const HeroSection = () => {
               </a>
             </div>
             <div className="flex flex-wrap gap-4 mt-3">
-              <a href="https://linkedin.com/in/Adamas" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-card card-shadow hover:card-shadow-hover transition-shadow text-sm text-foreground">
+              <a href="https://www.linkedin.com/in/adamas-nkwebe-2a9180364" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2.5 rounded-xl bg-card card-shadow hover:card-shadow-hover transition-shadow text-sm text-foreground">
                 <Linkedin className="w-4 h-4 text-primary" />
                 LinkedIn
               </a>

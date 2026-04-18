@@ -5,7 +5,7 @@ const ContactSection = () => {
   const contactInfo = [
     { icon: Mail, label: "leroinkwebe@gmail.com", href: "mailto:leroinkwebe@gmail.com" },
     { icon: Phone, label: "+243 901 455 363", href: "tel:+243901455363" },
-    { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com/in/Adamas" },
+    { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/adamas-nkwebe-2a9180364" },
     { icon: MapPin, label: "Kinshasa, RD Congo", href: undefined },
   ];
 
